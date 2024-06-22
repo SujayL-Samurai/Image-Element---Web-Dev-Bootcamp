@@ -1,0 +1,8 @@
+<!-- Kitten image URL -->
+<h1>I love Cats</h1>
+<img src="//raw.githubusercontent.com/appbrewery/webdev/main/kitten.jpeg"/>
+
+
+<!-- Puppy image URL -->
+<h1>I love Dogs</h1>
+<img src="//raw.githubusercontent.com/appbrewery/webdev/main/puppy.gif" alt="puppy digging in sand"/>
